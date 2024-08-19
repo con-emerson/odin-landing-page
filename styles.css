@@ -43,7 +43,13 @@ button {
   cursor: pointer;
 }
 
+.right-link li {
+  padding: 0px 4px;
+  border-bottom: 2px solid #1f2937;
+}
+
 .right-link li:hover {
+  padding: 0px 4px;
   border-bottom: 2px solid #3882f6;
 }
 
