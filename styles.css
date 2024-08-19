@@ -29,12 +29,18 @@ img {
 .logo {
   font-size: 24px;
   font-weight: bold;
+  cursor: pointer;
+}
+
+button {
+  cursor: pointer;
 }
 
 .right-link {
   display: flex;
   gap: 24px;
   align-items: center;
+  cursor: pointer;
 }
 
 ul {
@@ -150,7 +156,8 @@ ul {
   justify-content: baseline;
 }
 
-.left-call h2, .left-call p {
+.left-call h2,
+.left-call p {
   color: #f9faf8;
 }
 
@@ -159,7 +166,7 @@ ul {
   align-items: center;
 }
 
-.call-sign-up  {
+.call-sign-up {
   background-color: #3882f6;
   border: 2px solid #f9faf8;
   color: #f9faf8;
