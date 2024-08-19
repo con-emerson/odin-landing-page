@@ -68,11 +68,11 @@ ul {
 .sign-up {
   background-color: #3882f6;
   color: #f9faf8;
-  padding: 10px 30px;
+  padding: 4px 32px;
   margin-top: 20px;
   border: none;
   outline: none;
-  border-radius: 10px;
+  border-radius: 5px;
   font-size: 20px;
   font-weight: 900;
 }
