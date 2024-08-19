@@ -43,6 +43,10 @@ button {
   cursor: pointer;
 }
 
+.right-link li:hover {
+  border-bottom: 2px solid #3882f6;
+}
+
 ul {
   list-style-type: none;
 }
